@@ -1,3 +1,3 @@
 # Post-Quantum-Cryptography
-### SPHINCS+ Note Link (HackMD):
+### SPHINCS+ Note (HackMD):
 https://hackmd.io/@O_IfDvcCRXaQtFMWct426A/SJX7Yuan9
