@@ -1,2 +1,2 @@
 # SPHINCS+
-### Note：https://hackmd.io/@O_IfDvcCRXaQtFMWct426A/S1ygPfgo5
+## Note：https://hackmd.io/@O_IfDvcCRXaQtFMWct426A/S1ygPfgo5
