@@ -1,4 +1,4 @@
-# SPH Particle Simulation - Sorting Algorithm Implementations
+# Optimizing SPH Fluid Simulations with GPU Parallelization in CUDA
 
 This project contains implementations of various sorting algorithms for the Smooth Particle Hydrodynamics (SPH) simulation, focusing on Bitonic Sort, Counting Sort, Merge Sort, and Bucket Sort. Different parallelization techniques are applied to experiment and analyze the performance.
 
