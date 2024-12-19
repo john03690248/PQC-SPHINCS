@@ -1,6 +1,6 @@
 # SPH Particle Simulation - Sorting Algorithm Implementations
 
-This project contains implementations of various sorting algorithms for the Smooth Particle Hydrodynamics (SPH) simulation, focusing on Bitonic Sort and Counting Sort. Different parallelization techniques are applied to experiment and analyze the performance.
+This project contains implementations of various sorting algorithms for the Smooth Particle Hydrodynamics (SPH) simulation, focusing on Bitonic Sort, Counting Sort, Merge Sort, and Bucket Sort. Different parallelization techniques are applied to experiment and analyze the performance.
 
 ## File List
 
