@@ -21,7 +21,7 @@ To run the programs, set up the appropriate environment for the required paralle
 
 ### Modify Number of Particles
 
-To change the number of particles, open the relevant file (e.g., `particle_simulation_counting_sort_pthread.cpp`) and modify the `num_particles` variable to set the desired number of particles (e.g., 10K, 100K, 1M, etc.).
+To change the number of particles, open the relevant file (e.g., `particle_simulation_counting_sort_pthread.cpp`) and modify the `num_particles` variable to set the desired number of particles.
 
 ### Compile and Run
 
